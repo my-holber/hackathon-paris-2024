@@ -26,7 +26,7 @@ This hackathon was a real challenge for our team. We worked under time pressure,
 - Role: Back-end developer  
 - Description: This participant also worked on the back-end, helping to create the server-side logic and solve coding issues. Despite limited experience, they took initiative and actively participated in the process.
 
-### 4. Participant Raphaeldott
+### 4. Participant :Raphaeldott
 - Role: Developer focusing on computer vision  
 - Description: This participant started programming only two months ago and is learning C. However, they successfully implemented the computer vision part using Google’s API. They used Python — a programming language they had never worked with before. It was a real challenge for them, but they handled it well.
 
