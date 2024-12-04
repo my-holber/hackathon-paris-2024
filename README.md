@@ -13,16 +13,16 @@ This hackathon was a real challenge for our team. We worked under time pressure,
 
 ## Our Team
 
-### 1. Participant jydzip
+### 1. Participant :jydzip
 
 - Role: Front-end and back-end developer, idea initiator  
 - Description: This participant had prior programming experience and worked the most. They not only handled front-end development but also actively worked on the back-end, came up with ideas, and solved architectural tasks related to the project.  
 
-### 2. Participant ForgetG
+### 2. Participant :ForgetG
 - Role: Back-end developer  
 - Description: This participant had limited programming experience. Nevertheless, they made an important contribution to the server-side development and actively collaborated with the team to implement functionality.
 
-### 3. Participant my-holber
+### 3. Participant :my-holber
 - Role: Back-end developer  
 - Description: This participant also worked on the back-end, helping to create the server-side logic and solve coding issues. Despite limited experience, they took initiative and actively participated in the process.
 
@@ -30,11 +30,11 @@ This hackathon was a real challenge for our team. We worked under time pressure,
 - Role: Developer focusing on computer vision  
 - Description: This participant started programming only two months ago and is learning C. However, they successfully implemented the computer vision part using Google’s API. They used Python — a programming language they had never worked with before. It was a real challenge for them, but they handled it well.
 
-### 5. Participant 5  
+### 5. Participant :5  
 - Role: UX Designer  
 - Description: Responsible for design and user experience. They created interface mockups, thought about usability, and helped the team improve the project's visual aspects.
 
-### 6. Participant ChongLeangUENG
+### 6. Participant :ChongLeangUENG
 - Role: Team organizer, presenter, and logistics  
 - Description: Although this participant didn’t write any code, they played a key role in forming the team, ensuring resources were available, and organizing the workflow. They also presented the project to the judges and made sure everything was ready for the successful completion of the hackathon.
 
