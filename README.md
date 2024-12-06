@@ -30,7 +30,7 @@ This hackathon was a real challenge for our team. We worked under time pressure,
 - Role: Developer focusing on computer vision  
 - Description: This participant started programming only two months ago and is learning C. However, they successfully implemented the computer vision part using Google’s API. They used Python — a programming language they had never worked with before. It was a real challenge for them, but they handled it well.
 
-### 5. Participant :5  
+### 5. Participant :Will-404-debug
 - Role: UX Designer  
 - Description: Responsible for design and user experience. They created interface mockups, thought about usability, and helped the team improve the project's visual aspects.
 
